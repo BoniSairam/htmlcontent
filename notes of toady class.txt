@@ -1,0 +1,29 @@
+we are having 3types of lists
+1) ordered
+2)unordered
+3)discriptive
+
+*ordered*
+1)orderd list carries numbers
+   *types Attribute
+        *1-numbers
+        *2-roman numbers
+        *A-Alphabets
+2) start attribute speifices where to start
+
+*unordered*
+unordered list which provides symbols
+   * type attribute
+       * disc
+       *circle
+       *square
+       *nunn
+
+--------------------------------------------------------------------------------
+
+links= which provides the connections from one page to another page 
+<a> tag is used 
+      *href
+      *target attribute
+* target values =_blank,_self
+
